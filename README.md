@@ -1,2 +1,3 @@
 # hello-world
-financial planning
+hi folks.
+my first project.I like codepen
